@@ -19,6 +19,7 @@ int main()
             printf("produto com desconto de 5%% = %.2f\n", preco - reajusteV);
             printf("produto com acrescimo de 5%% = %.2f\n", preco + reajusteV);
         }
+        contador++;
     }
     return 0;
 }
